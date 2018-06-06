@@ -1,0 +1,23 @@
+.option {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.option__points {
+  font-size: 56px;
+  text-align: center;
+}
+
+.option__btn {
+  background: #fff;
+  border: solid 1px #999;
+  font-size: 48px;
+  margin: 8px;
+  outline: none;
+  padding: 8px;
+
+  &:hover, &:focus {
+    border-color: #333;
+  }
+}

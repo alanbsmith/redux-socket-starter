@@ -1,0 +1,12 @@
+.home {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  margin: auto;
+  max-width: 1000px;
+
+  @media(min-width: 700px) {
+    margin: none;
+  }
+}
