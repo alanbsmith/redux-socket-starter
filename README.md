@@ -6,7 +6,7 @@ _a WIP starter for React + Redux + Socket.io_
 
 Install dependencies & start the dev server
 ```sh
-$ yarn i && yarn dev
+$ yarn install && yarn dev
 ```
 
 Visit http://localhost:8080
